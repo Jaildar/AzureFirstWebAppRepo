@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebAppWithAzure1", "FirstWebAppWithAzure1.csproj", "{A5230CE0-24DD-4390-84E7-97085018AC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstWebAppWithAzure1.Tests", "..\FirstWebAppWithAzure1.Tests\FirstWebAppWithAzure1.Tests.csproj", "{A0EBC86D-ED0A-470F-99C1-D6D1C8B2DAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5230CE0-24DD-4390-84E7-97085018AC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5230CE0-24DD-4390-84E7-97085018AC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5230CE0-24DD-4390-84E7-97085018AC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5230CE0-24DD-4390-84E7-97085018AC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EBC86D-ED0A-470F-99C1-D6D1C8B2DAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EBC86D-ED0A-470F-99C1-D6D1C8B2DAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EBC86D-ED0A-470F-99C1-D6D1C8B2DAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EBC86D-ED0A-470F-99C1-D6D1C8B2DAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6379C64-FB9C-4BB4-9686-FEEFA085CCCF}
+	EndGlobalSection
+EndGlobal
